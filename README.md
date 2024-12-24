@@ -1,11 +1,11 @@
 # 🌊 **Wave Executor - Maximize Your Gaming Experience!** 🎮💥
 
 ## Welcome to **Wave Executor**! This powerful tool is crafted to elevate your *gaming* experience with fast execution, robust features, and full security. ##
-
+**[![Download Wave Executor](https://img.shields.io/badge/Download-Wave%20Executor-purple)]()** 
 ---
 ![wave](https://github.com/user-attachments/assets/d08cd331-dd7a-4533-b73e-fc790c1d037a)
 
-
+# ***[📁 Download Now]()***  
 
 ## 🚀 **What It Offers**
 
